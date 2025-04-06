@@ -1,0 +1,14 @@
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\bin\Debug\net8.0\contaBanco.exe
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\bin\Debug\net8.0\contaBanco.deps.json
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\bin\Debug\net8.0\contaBanco.runtimeconfig.json
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\bin\Debug\net8.0\contaBanco.dll
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\bin\Debug\net8.0\contaBanco.pdb
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.AssemblyInfoInputs.cache
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.AssemblyInfo.cs
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.dll
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\refint\contaBanco.dll
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.pdb
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\contaBanco.genruntimeconfig.cache
+C:\Users\Kauan\source\repos\contaBanco\contaBanco\obj\Debug\net8.0\ref\contaBanco.dll
