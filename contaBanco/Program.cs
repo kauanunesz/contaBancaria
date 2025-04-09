@@ -5,8 +5,6 @@ Cliente cliente01 = new Cliente();
 
 Console.WriteLine("Olá, seja bem-vindo(a) ao banco.");
 
-//Teste do GitHub
-
 bool opc = true;
 while (opc)
 {
